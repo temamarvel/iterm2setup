@@ -45,3 +45,7 @@ Run the script:
 ```bash
 ./iterm2remove.sh
 ```
+
+### Read more
+
+[About article](https://medium.com/@tema.denisoff/customizing-iterm2-crafting-my-ideal-terminal-experience-46a4c53af6ec)
